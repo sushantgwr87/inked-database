@@ -1,0 +1,14 @@
+{
+  "name": "ink-data",
+  "version": "1.0.0",
+  "description": "server for database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sushant Gangwar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
