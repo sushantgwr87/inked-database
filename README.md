@@ -1,4 +1,5 @@
 # Inked-database
+
 A json server database for a react website named [Inked Diary](https://inked-diary.netlify.app/).
 
 ### Database
@@ -13,7 +14,8 @@ This file creates a json-server for database(db.json) locally.
 ## Heroku Deployment
 This database is deployed via [Heroku](https://www.heroku.com/) and catches all changes to the file db.json. Json Server created via heroku helps to make an api call to perform all CRUD operations locally.
 
-NO Changes made via website to database are reflected to original data.
+#### Note
+No Changes made via website to database are reflected to original data. All CRUD operations are local not permanent.
 
 ## Acknowledgements
 This Json server work was referenced from article. Thanks to Him!
