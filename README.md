@@ -16,6 +16,6 @@ This database is deployed via [Heroku](https://www.heroku.com/) and catches all 
 NO Changes made via website to database are reflected to original data.
 
 ## Acknowledgements
-Do check out for more details [Article by YousefZidan](https://dev.to/youssefzidan/deploying-fake-back-end-server-database-using-json-server-github-and-heroku-1lm4)
+This Json server work was referenced from article. Thanks to Him!
 
-  
+Do check out for more details [Article by YousefZidan](https://dev.to/youssefzidan/deploying-fake-back-end-server-database-using-json-server-github-and-heroku-1lm4)
